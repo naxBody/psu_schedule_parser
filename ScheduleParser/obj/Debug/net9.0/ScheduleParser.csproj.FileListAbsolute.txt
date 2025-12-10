@@ -1,0 +1,15 @@
+D:\VS_Projects\psu_schedule_parser\ScheduleParser\bin\Debug\net9.0\ScheduleParser.exe
+D:\VS_Projects\psu_schedule_parser\ScheduleParser\bin\Debug\net9.0\ScheduleParser.deps.json
+D:\VS_Projects\psu_schedule_parser\ScheduleParser\bin\Debug\net9.0\ScheduleParser.runtimeconfig.json
+D:\VS_Projects\psu_schedule_parser\ScheduleParser\bin\Debug\net9.0\ScheduleParser.dll
+D:\VS_Projects\psu_schedule_parser\ScheduleParser\bin\Debug\net9.0\ScheduleParser.pdb
+D:\VS_Projects\psu_schedule_parser\ScheduleParser\obj\Debug\net9.0\ScheduleParser.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS_Projects\psu_schedule_parser\ScheduleParser\obj\Debug\net9.0\ScheduleParser.AssemblyInfoInputs.cache
+D:\VS_Projects\psu_schedule_parser\ScheduleParser\obj\Debug\net9.0\ScheduleParser.AssemblyInfo.cs
+D:\VS_Projects\psu_schedule_parser\ScheduleParser\obj\Debug\net9.0\ScheduleParser.csproj.CoreCompileInputs.cache
+D:\VS_Projects\psu_schedule_parser\ScheduleParser\obj\Debug\net9.0\ScheduleParser.sourcelink.json
+D:\VS_Projects\psu_schedule_parser\ScheduleParser\obj\Debug\net9.0\ScheduleParser.dll
+D:\VS_Projects\psu_schedule_parser\ScheduleParser\obj\Debug\net9.0\refint\ScheduleParser.dll
+D:\VS_Projects\psu_schedule_parser\ScheduleParser\obj\Debug\net9.0\ScheduleParser.pdb
+D:\VS_Projects\psu_schedule_parser\ScheduleParser\obj\Debug\net9.0\ScheduleParser.genruntimeconfig.cache
+D:\VS_Projects\psu_schedule_parser\ScheduleParser\obj\Debug\net9.0\ref\ScheduleParser.dll
