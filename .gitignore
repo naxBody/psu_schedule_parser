@@ -1,0 +1,16 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+
+# JetBrains s
+.idea/
+
+# Windows
+Thumbs.db
+
+# Прочие временные файлы
+*.tmp
+*.log
